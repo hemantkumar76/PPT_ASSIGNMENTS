@@ -1,4 +1,4 @@
-class Solution {
+class qs4 {
     public int[] plusOne(int[] digits) {
         int n = digits.length;
 
